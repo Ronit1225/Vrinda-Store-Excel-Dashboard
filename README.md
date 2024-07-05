@@ -1,2 +1,2 @@
-# Vrinda-Store-Excel-Dashboard
+# Vrinda-Fashion-Store-Excel-Dashboard
 Excel Dashboard
